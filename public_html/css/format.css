@@ -1,0 +1,47 @@
+body {
+  margin: 10px;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 1px;
+  text-align: center;
+}
+
+div.carContainer{
+  padding: 10px;
+  padding-left: 30px;
+}
+
+input,select{
+  margin: 5px 10px 5px 10px;
+}
+
+
+.audi{
+  float: left;
+  text-align: center; 
+}
+
+.bmw{
+  padding-left: 10px;
+  float: left;
+  text-align: center; 
+}
+.mercedes{
+  float: left;
+  text-align: center;
+}
+
+#enterValues{
+  clear: left;
+}
+
+#buttonSubmit{
+  padding-top: 10px;
+  padding-left: 100px;
+  float: left;
+}
+#buttonReset{
+  padding-top: 9.5px;
+}
